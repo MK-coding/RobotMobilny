@@ -93,6 +93,12 @@
     <Content Include="polulu.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Resources\Background.jpg" />
+    <Content Include="Resources\Backward.jpg" />
+    <Content Include="Resources\DownLeft.jpg" />
+    <Content Include="Resources\DownRight.jpg" />
+    <Content Include="Resources\Forward.jpg" />
+    <Content Include="Resources\Left.jpg" />
     <Content Include="Resources\polulu.png" />
   </ItemGroup>
   <ItemGroup />
