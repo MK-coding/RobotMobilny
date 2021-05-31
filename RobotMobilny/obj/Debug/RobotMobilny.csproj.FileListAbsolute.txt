@@ -1,0 +1,39 @@
+C:\Users\szaki\Desktop\Aplikacja\RobotMobilny\RobotMobilny\bin\Debug\RobotMobilny.exe.config
+C:\Users\szaki\Desktop\Aplikacja\RobotMobilny\RobotMobilny\bin\Debug\RobotMobilny.exe
+C:\Users\szaki\Desktop\Aplikacja\RobotMobilny\RobotMobilny\bin\Debug\RobotMobilny.pdb
+C:\Users\szaki\Desktop\Aplikacja\RobotMobilny\RobotMobilny\obj\Debug\RobotMobilny.csprojAssemblyReference.cache
+C:\Users\szaki\Desktop\Aplikacja\RobotMobilny\RobotMobilny\obj\Debug\RobotMobilny.Form1.resources
+C:\Users\szaki\Desktop\Aplikacja\RobotMobilny\RobotMobilny\obj\Debug\RobotMobilny.Properties.Resources.resources
+C:\Users\szaki\Desktop\Aplikacja\RobotMobilny\RobotMobilny\obj\Debug\RobotMobilny.csproj.GenerateResource.cache
+C:\Users\szaki\Desktop\Aplikacja\RobotMobilny\RobotMobilny\obj\Debug\RobotMobilny.csproj.CoreCompileInputs.cache
+C:\Users\szaki\Desktop\Aplikacja\RobotMobilny\RobotMobilny\obj\Debug\RobotMobilny.exe
+C:\Users\szaki\Desktop\Aplikacja\RobotMobilny\RobotMobilny\obj\Debug\RobotMobilny.pdb
+C:\Users\szaki\Desktop\Aplikacja\RobotMobilny\RobotMobilny\obj\Debug\RobotMobilny.Form2.resources
+C:\Users\marci\OneDrive - Zachodniopomorski Uniwersytet Technologiczny w Szczecinie\Polulu Robot\Aplikacja\RobotMobilny\RobotMobilny\bin\Debug\RobotMobilny.exe.config
+C:\Users\marci\OneDrive - Zachodniopomorski Uniwersytet Technologiczny w Szczecinie\Polulu Robot\Aplikacja\RobotMobilny\RobotMobilny\bin\Debug\RobotMobilny.exe
+C:\Users\marci\OneDrive - Zachodniopomorski Uniwersytet Technologiczny w Szczecinie\Polulu Robot\Aplikacja\RobotMobilny\RobotMobilny\bin\Debug\RobotMobilny.pdb
+C:\Users\marci\OneDrive - Zachodniopomorski Uniwersytet Technologiczny w Szczecinie\Polulu Robot\Aplikacja\RobotMobilny\RobotMobilny\obj\Debug\RobotMobilny.csprojAssemblyReference.cache
+C:\Users\marci\OneDrive - Zachodniopomorski Uniwersytet Technologiczny w Szczecinie\Polulu Robot\Aplikacja\RobotMobilny\RobotMobilny\obj\Debug\RobotMobilny.Form1.resources
+C:\Users\marci\OneDrive - Zachodniopomorski Uniwersytet Technologiczny w Szczecinie\Polulu Robot\Aplikacja\RobotMobilny\RobotMobilny\obj\Debug\RobotMobilny.Form2.resources
+C:\Users\marci\OneDrive - Zachodniopomorski Uniwersytet Technologiczny w Szczecinie\Polulu Robot\Aplikacja\RobotMobilny\RobotMobilny\obj\Debug\RobotMobilny.Properties.Resources.resources
+C:\Users\marci\OneDrive - Zachodniopomorski Uniwersytet Technologiczny w Szczecinie\Polulu Robot\Aplikacja\RobotMobilny\RobotMobilny\obj\Debug\RobotMobilny.csproj.GenerateResource.cache
+C:\Users\marci\OneDrive - Zachodniopomorski Uniwersytet Technologiczny w Szczecinie\Polulu Robot\Aplikacja\RobotMobilny\RobotMobilny\obj\Debug\RobotMobilny.csproj.CoreCompileInputs.cache
+C:\Users\marci\OneDrive - Zachodniopomorski Uniwersytet Technologiczny w Szczecinie\Polulu Robot\Aplikacja\RobotMobilny\RobotMobilny\obj\Debug\RobotMobilny.exe
+C:\Users\marci\OneDrive - Zachodniopomorski Uniwersytet Technologiczny w Szczecinie\Polulu Robot\Aplikacja\RobotMobilny\RobotMobilny\obj\Debug\RobotMobilny.pdb
+C:\Users\marci\OneDrive - Zachodniopomorski Uniwersytet Technologiczny w Szczecinie\Polulu Robot\Aplikacja\RobotMobilny\RobotMobilny\bin\Debug\SimpleTCP.dll
+C:\Users\marci\OneDrive - Zachodniopomorski Uniwersytet Technologiczny w Szczecinie\Polulu Robot\Aplikacja\RobotMobilny\RobotMobilny\obj\Debug\RobotMobilny.csproj.CopyComplete
+C:\Users\marci\OneDrive - Zachodniopomorski Uniwersytet Technologiczny w Szczecinie\Polulu Robot\Aplikacja\RobotMobilny\RobotMobilny\bin\Debug\Resources\polulu.png
+C:\Users\marci\OneDrive - Zachodniopomorski Uniwersytet Technologiczny w Szczecinie\Polulu Robot\Aplikacja\RobotMobilny\RobotMobilny\bin\Debug\polulu.png
+C:\Users\marci\Desktop\RobotMobilny\Aplikacja\RobotMobilny\RobotMobilny\bin\Debug\polulu.png
+C:\Users\marci\Desktop\RobotMobilny\Aplikacja\RobotMobilny\RobotMobilny\bin\Debug\RobotMobilny.exe.config
+C:\Users\marci\Desktop\RobotMobilny\Aplikacja\RobotMobilny\RobotMobilny\bin\Debug\RobotMobilny.exe
+C:\Users\marci\Desktop\RobotMobilny\Aplikacja\RobotMobilny\RobotMobilny\bin\Debug\RobotMobilny.pdb
+C:\Users\marci\Desktop\RobotMobilny\Aplikacja\RobotMobilny\RobotMobilny\bin\Debug\SimpleTCP.dll
+C:\Users\marci\Desktop\RobotMobilny\Aplikacja\RobotMobilny\RobotMobilny\obj\Debug\RobotMobilny.csproj.AssemblyReference.cache
+C:\Users\marci\Desktop\RobotMobilny\Aplikacja\RobotMobilny\RobotMobilny\obj\Debug\RobotMobilny.Form1.resources
+C:\Users\marci\Desktop\RobotMobilny\Aplikacja\RobotMobilny\RobotMobilny\obj\Debug\RobotMobilny.Properties.Resources.resources
+C:\Users\marci\Desktop\RobotMobilny\Aplikacja\RobotMobilny\RobotMobilny\obj\Debug\RobotMobilny.csproj.GenerateResource.cache
+C:\Users\marci\Desktop\RobotMobilny\Aplikacja\RobotMobilny\RobotMobilny\obj\Debug\RobotMobilny.csproj.CoreCompileInputs.cache
+C:\Users\marci\Desktop\RobotMobilny\Aplikacja\RobotMobilny\RobotMobilny\obj\Debug\RobotMobilny.csproj.CopyComplete
+C:\Users\marci\Desktop\RobotMobilny\Aplikacja\RobotMobilny\RobotMobilny\obj\Debug\RobotMobilny.exe
+C:\Users\marci\Desktop\RobotMobilny\Aplikacja\RobotMobilny\RobotMobilny\obj\Debug\RobotMobilny.pdb
