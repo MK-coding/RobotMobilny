@@ -22,15 +22,12 @@ namespace RobotMobilny
         string LedStatus = "00", S1, S2;
         private string[] sensorValue = new string[5];
 
-        
-
         public Form1()
         {
             board = new Board();
             robot = new Robot();
             engine = new Engines();
             frame = new Frame();
-            
             InitializeComponent();
         }
         private void Form1_Load(object sender, EventArgs e)
@@ -44,16 +41,20 @@ namespace RobotMobilny
             Thread ctThread = new Thread(getFrame);
             ctThread.IsBackground = true;
             ctThread.Start();
-            if (clientSocket.Connected) ConnectStatus_Box.Text = "Connecting\n";
+
+            if (clientSocket.Connected) ConnectStatus_Box.Text = "Connected\n";
         }
 
         public void getFrame()
         {
             string returndata;
-        
+
             while (true)
-            {   
-                byte[] instream = readFrame();
+            {
+                serverstream = clientSocket.GetStream();
+                var buffsize = clientSocket.ReceiveBufferSize;
+                byte[] instream = new byte[buffsize];
+                serverstream.Read(instream, 0, buffsize);
 
                 returndata = System.Text.Encoding.ASCII.GetString(instream);
 
@@ -75,15 +76,6 @@ namespace RobotMobilny
                 serverstream.Write(FrameToSend, 0, 8);
                 Send();
             }
-        }
-
-        private byte[] readFrame()
-        {
-            serverstream = clientSocket.GetStream();
-            var buffsize = clientSocket.ReceiveBufferSize;
-            byte[] instream = new byte[buffsize];
-            serverstream.Read(instream, 0, buffsize);
-            return instream;
         }
 
         private void DecodeEngines()
